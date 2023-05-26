@@ -32,7 +32,7 @@ function Info() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={mail} alt="mail"></img>{" "}
+                <img src={mail} alt="mail"></img>
               </a>
               <p>Email</p>
             </div>
@@ -42,7 +42,7 @@ function Info() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={linkedin} alt="linkedin"></img>{" "}
+                <img src={linkedin} alt="linkedin"></img>
               </a>
               <p>Linkedin</p>
             </div>

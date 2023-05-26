@@ -14,7 +14,7 @@ function Footer() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src={linkedin} alt="linkedin"></img>{" "}
+              <img src={linkedin} alt="linkedin"></img>
             </a>
           </div>
           <div className="footer__container__socials__github">
@@ -23,7 +23,7 @@ function Footer() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src={github} alt="github"></img>{" "}
+              <img src={github} alt="github"></img>
             </a>
           </div>
         </div>
@@ -33,7 +33,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mail} alt="mail"></img>{" "}
+            <img src={mail} alt="mail"></img>
           </a>
         </div>
         <div className="footer__container__socials__twitter">
@@ -42,7 +42,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={twitter} alt="twitter"></img>{" "}
+            <img src={twitter} alt="twitter"></img>
           </a>
         </div>
       </div>
