@@ -1,6 +1,6 @@
 import React from "react";
 
-function Interests() {
+export default function Interests() {
   return (
     <div className="interests">
       <div className="interests__container">
@@ -12,5 +12,3 @@ function Interests() {
     </div>
   );
 }
-
-export default Interests;

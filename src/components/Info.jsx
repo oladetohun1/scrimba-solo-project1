@@ -1,10 +1,9 @@
 import React from "react";
-
-import profile from "../assets/potrait.jpg";
+import profile from "../assets/potrait.png";
 import mail from "../assets/email.png";
 import linkedin from "../assets/linkedin.png";
 
-function Info() {
+export default function Info() {
   return (
     <div className="info">
       <div className="info__container">
@@ -12,8 +11,8 @@ function Info() {
           <img src={profile} alt="profile" />
         </div>
         <div className="info__container__text">
-          <h1>Oluwakorede Oladetohun</h1>
-          <h3>Software Engineer</h3>
+          <h1>Oluwakorede</h1>
+          <h4>Software Engineer</h4>
           <p>
             <a
               href="https://www.hiphotler.tech"
@@ -52,5 +51,3 @@ function Info() {
     </div>
   );
 }
-
-export default Info;

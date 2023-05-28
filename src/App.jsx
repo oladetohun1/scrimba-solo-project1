@@ -1,7 +1,7 @@
-import Info from "./components/Info";
-import About from "./components/About";
-import Interests from "./components/Interests";
-import Footer from "./components/Footer";
+import Info from "./components/info";
+import About from "./components/about";
+import Interests from "./components/interests";
+import Footer from "./components/footer";
 import "./App.css";
 
 function App() {

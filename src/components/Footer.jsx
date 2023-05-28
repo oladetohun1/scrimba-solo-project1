@@ -3,7 +3,9 @@ import linkedin from "../assets/linkedin.png";
 import github from "../assets/github.png";
 import mail from "../assets/email.png";
 import twitter from "../assets/twitter-logo.png";
-function Footer() {
+
+
+export default function Footer() {
   return (
     <div className="footer">
       <div className="footer__container">
@@ -49,5 +51,3 @@ function Footer() {
     </div>
   );
 }
-
-export default Footer;
