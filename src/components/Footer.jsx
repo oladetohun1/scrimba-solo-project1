@@ -1,7 +1,7 @@
 import React from "react";
-import linkedin from "../assets/linkedin.png";
+import linkedin from "../assets/Linkedin Icon.png";
 import github from "../assets/github.png";
-import mail from "../assets/email.png";
+import mail from "../assets/Facebook Icon.png";
 import twitter from "../assets/twitter-logo.png";
 
 
@@ -28,7 +28,6 @@ export default function Footer() {
               <img src={github} alt="github"></img>
             </a>
           </div>
-        </div>
         <div className="footer__container__socials__mail">
           <a
             href="mailto:oladetohunoluwakorede@gmail.com"
@@ -46,6 +45,7 @@ export default function Footer() {
           >
             <img src={twitter} alt="twitter"></img>
           </a>
+        </div>
         </div>
       </div>
     </div>
