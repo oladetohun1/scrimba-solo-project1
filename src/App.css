@@ -127,6 +127,9 @@ a {
   padding-right:36px;
   padding-bottom:27px;
 }
+.interests__container h2{
+  margin-bottom:5px;
+}
 .footer__container__socials{
   display:flex;
   align-items:center;
